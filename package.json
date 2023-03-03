@@ -1,0 +1,20 @@
+{
+  "name": "logos",
+  "version": "1.0.0",
+  "description": "A Cli tool to generate SVG Images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "test": "node index.test.js"
+  },
+  "author": "Hammad V2",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
