@@ -25,3 +25,10 @@ THEN an SVG file is created named `logo.svg`
 AND "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered.
+
+
+
+# Guide Video link  Please open the given link in the browser to display the guidance to use the application video : https://drive.google.com/file/d/1oG-axH7XKi4Gjl1jBXHiViTQnOKNMrzx/view
+
+# Contact Me:
+If you want to contact me please email me at the given email address: syedali05125569@gmail.com
